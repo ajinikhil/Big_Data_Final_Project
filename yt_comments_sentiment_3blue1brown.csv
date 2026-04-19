@@ -1,0 +1,626 @@
+comment,sentiment,videoId
+"If you see comments here about investing or brokers, they are scams.  Videos about cryptocurrencies, evidently including ones that are just about the underlying technology/math, are hotbeds for attracting nefarious actors preying on the impressionable.
+
+Also, hi!  If you’re new to this channel, most of it is about visualizing math. I get it, you probably landed here searching for how BTC works, not to spend your afternoon getting pulled into learning about, say, prime numbers or problem-solving, but if you have a moment take a look at the rest of the channel, you may enjoy what you find.",Positive,bBC-nXj3Ng4
+Thank you soo much,Neutral,bBC-nXj3Ng4
+"A laudable explanation of bitcoin, even if those who hawk its virtues as a remedy for our crumbling economies are exactly the kind of people (i.e. the ruling elites and capitalists) who are the cause of such problems.",Positive,bBC-nXj3Ng4
+2:30 ledger 帳本 Digital signatures 電子簽名,Neutral,bBC-nXj3Ng4
+"0.001 BTC transaction fee looks funny in 2022, as well as 50 BTC reward for one block",Neutral,bBC-nXj3Ng4
+"Bitcoin was founded in 2009 by a pseudonymous person or group called Satoshi Nakamoto.
+Bitcoin has no central authority that controls it.
+The maximum amount of Bitcoin is 21 million. 
+The subdivided unit of Bitcoin is called Satoshi.
+Bitcoin is legal in most countries.
+Bitcoin can be exchanged for other currencies and products.",Neutral,bBC-nXj3Ng4
+"If I accidentally add my block to a shorter chain, are all my computations in vain?",Neutral,bBC-nXj3Ng4
+why so hard,Negative,bBC-nXj3Ng4
+Too good,Positive,bBC-nXj3Ng4
+"20:05 so what keeps Alice from making a fraudulent transaction, and broadcasting it to everyone not just Bob? If she broadcasts it to everyone, she doesn't have to mine.",Neutral,bBC-nXj3Ng4
+"So to clarify, there are two measures of security:
+1. The digital signatures using secret / public keys: This authenticates transactions and doesn't allow people to change transactions after it has been signed, because the message and secret key make the signature. I.e. it lets me know that no one is stealing money from me.
+2. The hash for the block of transactions: After making sure each transaction is valid with a signature, we want everyone else in the world to know the valid transaction happens. I.e. that the money is transferred and people know person A now has 10 LD from person B.
+
+Together these two provide the following: Makes sure every transaction on the block is true (1). Makes sure everyone knows all the true transactions (2).
+
+If (1) fails, then you can make fake transactions. If (2) fails, then even if you have real transactions no one will believe you.
+
+Is this line of thinking correct?",Neutral,bBC-nXj3Ng4
+"THE BEST EXPLANATION! 
+
+A melhor explicação sobre BTC que eu ja vi.",Positive,bBC-nXj3Ng4
+"You should make an updated video about PROOF OF STAKE, and other Cryptocurrencies",Neutral,bBC-nXj3Ng4
+Would of been good if you elaborated why bitcoin blocks are the size they are. It becomes difficult for people to maintain and hold a copy of the ledger the bigger the blocks get. This makes it easier for bad actors to potentially fraud someone on the network.,Neutral,bBC-nXj3Ng4
+"I absolutely loved this video. I love how deep into the nitty gritty you go, no other explanation has gone that far that I've found and the fact that this video is 5 years old is astounding.",Positive,bBC-nXj3Ng4
+can you make a video explaining proof of stake?,Neutral,bBC-nXj3Ng4
+"The biggest issue with the blockchain is privacy. Since it publicly tracks all transactions there really is no way to pay anyone without it being public record. Every transfer of funds, be it a tip, gift or payment then it is publicly logged.",Neutral,bBC-nXj3Ng4
+First time I've actually understood bitcoin. Thank you.,Neutral,bBC-nXj3Ng4
+Thanks!,Neutral,bBC-nXj3Ng4
+Amazing video!,Positive,bBC-nXj3Ng4
+this is probably the best explanation on blockchain and bitcoin thank you .,Positive,bBC-nXj3Ng4
+Thanks buddy,Neutral,bBC-nXj3Ng4
+"Right now it doesn’t, as I understand it.",Positive,bBC-nXj3Ng4
+It's ggod to have a reasonable explanation,Neutral,bBC-nXj3Ng4
+23:00,Neutral,bBC-nXj3Ng4
+4:39,Neutral,bBC-nXj3Ng4
+"In this report, as with every  other documentaries about CrytoCurrency and BlockChain,  in my mind, I can hear Charles PONZI talking to another potential sucker ... this ""Get-Rich-At-The-Speed Of-Light-Because One-Day-Justice-Will-Do-Something-To-Kill-This- Scheme""  is not even a Pyramid Scheme, it is a ""Büchner Funnel Scheme""©, very wide on one side, at the mid-point it gets very narrow. Guys, use money, be honest, stop affecting the economy for the majority with these unethical, felonious plans ... make money by working hard!
+Please!",Neutral,bBC-nXj3Ng4
+How Bitcoin actually works: Whales and promoters pump and dump worthless tokens to the minnows.,Negative,bBC-nXj3Ng4
+Come and see my work! You will gain a lot~,Neutral,bBC-nXj3Ng4
+20:10 why does Alice should mine the fraud block on herself? Can't she just broadcast it to the users so that many people can help her to mine the block?,Positive,bBC-nXj3Ng4
+"I still don't understand @ 20:10
+If Alice is trying to attach a fraud block then why doesn't she broadcast the transaction so the miners can create the fraud block instead of working on it herself?
+Why couldn't Bob verify the validity of the fraud block that involves him at first glance? 
+Does the amount of bitcoin in the blockchain starts at 50 BTC?",Neutral,bBC-nXj3Ng4
+"Is it always the number of 0's used in Bitcoins POW consensus? Surely that means that you'd just need to save the solutions when you find X number of 0's at the start of each computation and then pulling from your stored solutions? Instead is it the character length at the start of the output hash that changes, but each of the characters can be 1's or 0's?",Positive,bBC-nXj3Ng4
+"I had a comment with a few problems that Bitcoin has and it keeps getting censored.  It pains me when a society is only fed one side of a story and ignores any problems.  Where is the free flow of information, where can you hear both sides of the story?",Neutral,bBC-nXj3Ng4
+What happens if no one “mines”,Neutral,bBC-nXj3Ng4
+THANK YOU SO MUCH FOR THIS VIDEO,Neutral,bBC-nXj3Ng4
+thank for this video. nice 100%,Positive,bBC-nXj3Ng4
+Why do we need proof of work even though we have digital signature? Why do all of us need the ledgers?? Can't we just write the transactions on the public ledger with the digital signatures? Some answer it pleaseeee😂😂😂😂😂😂😂😂😂😂,Neutral,bBC-nXj3Ng4
+"Your truly, truly understand bitcoin and the systems in place now to explain this so well and to draw distinctions. 
+
+Love your work!",Positive,bBC-nXj3Ng4
+Thank you grant 📈,Neutral,bBC-nXj3Ng4
+Great video .explain every detail in form of everything. Realy like this video,Positive,bBC-nXj3Ng4
+Thank you!,Neutral,bBC-nXj3Ng4
+ㅅㅂ 자막이 나무위키 스러워서 보기가 싫다,Neutral,bBC-nXj3Ng4
+"This video has much more than 26 of knowledge, I watched it with slow playing to understand how deep is blockchain.
+Thanks",Neutral,bBC-nXj3Ng4
+<Please I need someone to help me trade or invest in the forex or crypto market because I'm tired of trading in losses myself. I've blown my account twice and it's frustrating,Negative,bBC-nXj3Ng4
+Who's Charlie? 🙃,Neutral,bBC-nXj3Ng4
+please do this for proof of stake!,Neutral,bBC-nXj3Ng4
+OJACOIN platform's trading model efficiently matches the market depth of major exchanges around the world while providing high liquidity.,Neutral,bBC-nXj3Ng4
+"bonjour
+Comment puis-je commencer à acheter des bitcoins et à les transférer dans mon portefeuille ? Merci
+Richard",Neutral,bBC-nXj3Ng4
+Ojacoin and its blockchain is one of the best which i have seen so far. i believe its the feature.,Positive,bBC-nXj3Ng4
+From the naming convention i will assume my name is Danny,Neutral,bBC-nXj3Ng4
+1:27 accurate graph,Positive,bBC-nXj3Ng4
+"Great info, learned a lot, Thank you",Positive,bBC-nXj3Ng4
+"6:07 me, an astronomy fan: ouch, that hurt…",Neutral,bBC-nXj3Ng4
+What are the kind of transactions that we are tracking inside the block ? Can we track the real world trasactions that we do in our day to day life for example the payment that we made for purchasing milk can from costco?,Positive,bBC-nXj3Ng4
+This was wonderful. Thank you.,Positive,bBC-nXj3Ng4
+🔥🔥,Neutral,bBC-nXj3Ng4
+"*Successful people don't become that way overnight. What most people see at a glance wealth, a great career, purpose is the result of hard work. 🤑🤑*",Positive,bBC-nXj3Ng4
+"Satoshi Nakamoto already solved the problem with Bitcoin.
+All other copycat of bitcoin called altcoins are just scams that are created to enrich the founders. Nakamoto quietly left the Bitcoin by letting people take control of the money. Thank you for the gift Nakamoto.",Neutral,bBC-nXj3Ng4
+bitcoin works buy 99% of all of it being owned by only 1% of the richest people on earth. that then are able to use it to leverage their other assets. when the economy or stock market then crashes bitcoin will fall because the main owners of it also have their other investments they have to make up on making bitcoin also fall....sound familiar? it should because its all a scam that is gone with the push of a button ran by wealthy elites. yall have been fooled but are in to deep to your loses to admit it as a loss and hoping other fools get fooled so it normalizes out for the original fools,Neutral,bBC-nXj3Ng4
+I paused the video at 7:45 and i paused it on a frame where charlies eyes are GONE,Neutral,bBC-nXj3Ng4
+"Les recomendé un corredor profesional hace algún tiempo, ¿puedo conseguir una persona que haya invertido con ella?
+ Comenta abajo
+ Vamos",Neutral,bBC-nXj3Ng4
+Thanks alot ofr the video i got 61 bitcions,Neutral,bBC-nXj3Ng4
+"Cryptocurrency is a very good trend, I think it is a very big market, I hope to make some friends who are also interested in cryptocurrency, we can learn and grow together.",Positive,bBC-nXj3Ng4
+this was awesome! I was having trouble on understanding the nodes vs. miners as well as the random number / difficulty adjustment but this totally cleared it up!,Neutral,bBC-nXj3Ng4
+new coin gandercon buy kre.,Neutral,bBC-nXj3Ng4
+i count myself to be successful in crypto mining with the help of Mr Brontus Darf his mining strategies are awesome,Positive,bBC-nXj3Ng4
+I will never have anything to do with crypto.,Neutral,bBC-nXj3Ng4
+"How many different ways to pay for something do we really need?  Great video, thank you!!",Positive,bBC-nXj3Ng4
+"Hello I have a question!
+Is the proof of work number computed from the list of transactions only or the list of transactions plus the header (which is the previous hash)?",Neutral,bBC-nXj3Ng4
+This is the absolute BEST explanation of BTC I've ever seen.  Thank you!,Positive,bBC-nXj3Ng4
+"18:50 wait, so if even the sligthest change can affect the resulting block, wouldn't the order of transactions also able to affect it?",Positive,bBC-nXj3Ng4
+Dude you might be one of the best to explain this! Explaining complex ideas in an understandable way is a skill few people have 👏,Neutral,bBC-nXj3Ng4
+"so weird, i put in $1000 to one of these exact same thing knowing it would probably be a scam ended up mining $1800 got excited and cashed it all out, it all went directly into my bank account within an hour. not sure if i just got out before they could figure out how to take all my money or what.",Neutral,bBC-nXj3Ng4
+"【please teach me!!!】
+When forks appear, how should miners decide which route they follow?",Neutral,bBC-nXj3Ng4
+Thank you for all this detail about crypto.,Neutral,bBC-nXj3Ng4
+"It's  an extremely information dense lecture. You have to watch portions of it again and again to grasp the underlying concepts. But once you've finished it, you feel so damn confident.",Neutral,bBC-nXj3Ng4
+excellent explanation,Positive,bBC-nXj3Ng4
+"Thank you, really great explanation!",Positive,bBC-nXj3Ng4
+"If i get it right, the digital signature and cryptography secures the user for frauds, but the consensus algorithm is only good to agree which transactions go first from the memo pool, is that right?",Positive,bBC-nXj3Ng4
+"For days im trying to understand how it secures transactions. The transaction is taken from memopool, lets say randomly. So if I'm sending two, or more transactions, that contradict each other, the first that will be taken and approved is the ""real"" one, enters the chain. In the video (20:30), why would it split? Alice was first with the transaction approval, she got the hash, the block is added. If bob doesnt spend any money right away, how other transactions contradict it?",Neutral,bBC-nXj3Ng4
+W,Neutral,bBC-nXj3Ng4
+THIS is what I want to know!,Neutral,bBC-nXj3Ng4
+Fantastic explanation. Thanks!,Positive,bBC-nXj3Ng4
+"""She""? Oh dear, idealology has infected you. ☹️",Neutral,bBC-nXj3Ng4
+extremely interesting with this video,Positive,bBC-nXj3Ng4
+"hello my brothers, my company went bankrupt due to corona I couldn't borrow money from anyone I have 3 children I'm about to commit suicide as a last resort this came to mind if you donate 1 dollar my life will be saved I want your help my btc address
+bc1qah93xh9yexqmr87p0f6tgrwsdse3puekjg202y",Neutral,bBC-nXj3Ng4
+"bc1q4yg84yrpzt37el9g9x643c4jhwr4p3hg2kmtd5     ""20% increase in your BTC amount in 7 days""",Neutral,bBC-nXj3Ng4
+"bc1q4yg84yrpzt37el9g9x643c4jhwr4p3hg2kmtd5     ""20% increase in your BTC amount in 7 days""",Neutral,bBC-nXj3Ng4
+"Yes, very bank like procedure. New way to look at transactions to try and bind them to an account or person but still banking 101.",Neutral,bBC-nXj3Ng4
+Is not the first.,Neutral,bBC-nXj3Ng4
+I’ve had crypto stolen off coinbase wallet and have contacted coinbase and they can’t figure it out.,Neutral,bBC-nXj3Ng4
+Really man,Neutral,bBC-nXj3Ng4
+"5 years later and I still comeback to this Blockchain explanation to check if my understanding, love it",Neutral,bBC-nXj3Ng4
+"if transactions are associated with a block, what are miners even mining? I don't see any transactions details in the block ,like block 1 of the bitcoin blockchain. Why are blocks being mined (other than for its block reward) , when there are no transactions?",Neutral,bBC-nXj3Ng4
+"Nobody here would believe how I started, I honestly
+lost almost everything I had and was forced to start
+all over again, people stopped believing in me and I
+was getting only deeper, I started small and for a
+while now my life has been back on track, all thanks to Mrs Rebecca Jackson, I intend
+on making my kids future the best for them",Neutral,bBC-nXj3Ng4
+"My goal is to own 10 BTC before August and follow up with the next halving, I currently owned 2.5 BTC and thanks to Brandon for helping me achieve that as I started trading using his method with just 0.4BTC.",Neutral,bBC-nXj3Ng4
+I also trade with Paulson Dmitriev signals and they have been of immense help to me.,Neutral,bBC-nXj3Ng4
+Trading with Paulson Dmitriev’s daily signals has been profitable and am looking forward to another successful month with his daily signals.,Neutral,bBC-nXj3Ng4
+"Managing my portfolio by myself was the biggest mistake I made and it cost me a lot of bitcoin, when I saw a post about Paulson Dmitriev on another channel I was moved to contact him and he helped build my bitcoin portfolio from 1.2 btc to 3.5 btc in 5 weeks.",Neutral,bBC-nXj3Ng4
+Be a better trader today by trading with Mr Paulson's strategy. His awesome and accurate strategy works consistently. Watch yourself grow everyday trading with Mr Paulson's strategy. To be honest it is the most consistent and long serving strategy i ever came across with.,Positive,bBC-nXj3Ng4
+<indeed good name is far better than riches and this is one good thing Paulson Dmitriev has secured for himself and its entire generation if am permitted to say....  I remember as at last year December i run a lot of loss during trading but ever since i came across Paulson PROFIT PROFIT PROFIT is all i can record ...,Positive,bBC-nXj3Ng4
+"Paulson Dmitriev is an educationalist, he took his time to teach me and gave me demo sessions to ascertain my understanding before I went live, and talking about signals, they are epic and really easy to understand.",Neutral,bBC-nXj3Ng4
+"Personally as a first time investor, I started trading with Mr Paulson Dmitriev With £4000 now my portfolio is worth £20,400 within the space of few months trading with him.",Neutral,bBC-nXj3Ng4
+"I completely agree, Paulson Dmitriev is a pro trader and a guru in describing financial trading to the amateur trader, He is the best and with my Portfolio growing steadily with his trade signals, I hold no limitation in proposing him as a mentor.",Neutral,bBC-nXj3Ng4
+Building a good trade portfolio is more complex so I would recommend you seek Paulson Dmitriev's support. This way you can get strategies designed to address your unique long/short-term goals and financial dreams.,Positive,bBC-nXj3Ng4
+"<I invested $2,500 and I made $7,450 weekly trading with him, I only trust Mr Paulson Dmitriev With my investment. I am now able to send my kids to a great school in LA, all thanks to Paulson Good man ❤",Positive,bBC-nXj3Ng4
+"Crypto trading almost made me ruin my savings until i read a comment about Paulson Dmitriev , he gave me another chance to believe crypto trading again after introducing me to his masterclass.",Neutral,bBC-nXj3Ng4
+"Never would have thought corona would have been the best thing ever to happen to crypto. Where will all these trillions flow into? MicroStrategies, Fidelity, more to come. Buy now or have regrets, the bitcoin and ethereum traders will take over 2022… you will only be a spectator as you have always been… Trade with Paulson Dmitriev, copy all his trades, use his signals and follow his teachings, that’s how to start winning.",Positive,bBC-nXj3Ng4
+"Holding some and selling some. I accumulate in one account and trade with the other. If you're going to trade BTC, I believe you should never bet the whole basket. You should at least have a plan. Thanks for the great advice as always, love his teachings and hard work, God bless my man Paulson Dmitriev.",Neutral,bBC-nXj3Ng4
+"The crypto mark:et <!s currently experiencing a bull run and a lot of newbies see this as a chance to get in on the action, This happens anytime something moons. My advise if you are planning to go in the Crypto Mar:ket is you should trade with a wise approach rather than buying Crypto, holdin it to make gain and then get disappointed by an imminent crash in a few weeks. Over the past year I have been able to make 3.5+BTC following the instructions and s!gnals from Paulson Dmitriev, He runs program for investors/newbies who lack understanding on how tradN Bitcoin works.",Neutral,bBC-nXj3Ng4
+"Personally as a first time investor, I started trading with Mr Paulson Dmitriev With £1,000 now my portfolio is worth £5,400 within the space of few months trading with him",Neutral,bBC-nXj3Ng4
+"<I made $24,400 profits on investing since I started trading with Paulson Dmitriev his trading strategies are too notch am winning consistently trading with Paulson. He really the best broker I've made a lot of profit investing with him.",Positive,bBC-nXj3Ng4
+"I have heard quite a lot about Mr Paulson Dmitriev’s expertise but I was skeptical until I saw his broker was regulated by the Commodity Futures Trading Commission. This convinced me enough to trade with him, I earn up to $15k weekly income from his system.",Neutral,bBC-nXj3Ng4
+"This is the best video for understanding how Bitcoin works that I've ever seen.
+
+Congrats!",Positive,bBC-nXj3Ng4
+Memory marking pattern declaration encryption to be a chain that hold human timeline,Neutral,bBC-nXj3Ng4
+"*Successful people don't become that way overnight. What most people see at a glance wealth, a great career, purpose is the result of hard work. 🤑🤑*",Positive,bBC-nXj3Ng4
+Thank you so much for all this unpayable info provided in such a friendly way :-),Positive,bBC-nXj3Ng4
+fdhg ds sgaet et,Neutral,bBC-nXj3Ng4
+ok kokoakf ofokkdo sdfkko,Positive,bBC-nXj3Ng4
+"Crypto currencies are a very clever expression of technological thinking but they are not a ""Currency"" and do not behave as such,  They are a non tangible, highly volatile and risky asset, and im stretching the meaning of the word ""Asset"" to be kind.  They have no tangible or real world value because they cannot be used to make anything.  They are not a store of wealth because no store of wealth can have 40% of it's alleged value wiped out within a matter of days as Bitcoin did recently.  Bitcoin and other crypto's are nothing more than a contemporary digital Ponzi scheme.  The value of crypto relies wholly on the confidence that people have that they will eventually be able to sell it for more than than paid for it and for that to be possible it requires a constant flow of buyers coming in at the bottom.  If people ever lose confidence in Bitcoin and cryptos that will be the end of it and many late buyers will end up holding the bag.  It's a Con game.",Neutral,bBC-nXj3Ng4
+I'm watching this to fall asleep,Neutral,bBC-nXj3Ng4
+"10:00 ""The history of transactions is the currency"" interesting
+
+Edit: 17:30 I love how I now know what a block chain is, and it wasn't as mind blowing as people on the internet made it seem. And I'm pretty sure blockchains are done in introductory coding courses. (Though not as complex).
+
+Edit 2: 18:25 so THAT'S why mining is profitable. I get it now. That circles back to the claim made ~10 mins in.
+
+Edit 3: 21:15 So, bitcoin 'authority', in essence, is computing power, and bitcoin 'identity' is the a blockchain made by the original owner?
+
+Great video. As you can see I am still shaky on complete understanding, BUT this was the only useful explaination of Bitcoin and crypto I've seen so far (for me). So I am greatful. and maybe this will lead me to understanding others.",Neutral,bBC-nXj3Ng4
+"*Successful people don't become that way overnight. What most people see at a glance wealth, a great career, purpose is the result of hard work. 🤑🤑*",Positive,bBC-nXj3Ng4
+Bitcoin and Cryptocurrencies are one of those topics in my upcoming cryptography exam that I'm still pretty confused about. But this helped me to advance my knowledge a little! c:,Neutral,bBC-nXj3Ng4
+Android client for Distributed Hash Chain: @,Neutral,bBC-nXj3Ng4
+"I am a mechanical type car guy that can fix it build pretty much anything you come to me with and I never could fully understand how so many people have very very few mechanical skills and rely on someone else for something to me as simple as filling a tire with air, however, I have watched this several times and still have absolutely no idea how any of this could possibly work on a fundamental level (I get how you show it In principle but there is a ton I'm sure you left out) and just realized how so many people could have no idea what I do.",Neutral,bBC-nXj3Ng4
+Hey! Is the number you are referring to as Proof of Work at 15:47 called Nonce? Or is Nonce something different? Can you please clarify?,Neutral,bBC-nXj3Ng4
+"Do you identify yourself as the brown pi, or they are more like characters that appear in your videos to address them a bit?",Positive,bBC-nXj3Ng4
+Wow. the top of the comment section is just full of bots and scammers. I hate the crypto market and web 3 so much.,Neutral,bBC-nXj3Ng4
+No thnks,Neutral,bBC-nXj3Ng4
+finally know what block chain is!,Neutral,bBC-nXj3Ng4
+"Thank you for this piece - it cleared up many of the ""But how do they know that..."" kind of questions I have about this subject.",Positive,bBC-nXj3Ng4
+"Very well made video, thanks!",Neutral,bBC-nXj3Ng4
+Keep on producing more and more CO2 by burning more and more electricity and solving more and more esoteric formulas and finally destroying the planet.,Positive,bBC-nXj3Ng4
+Brilliant.,Positive,bBC-nXj3Ng4
+"Now i get it.
+it's the modern Ponzi scheme.",Neutral,bBC-nXj3Ng4
+Thank you for the exciting video. The idea about probabilistic consensus based on waiting for the chain to grow before accepting a block is brilliant.,Positive,bBC-nXj3Ng4
+"Top-notch explanation, very clear, I shall send this out rather than explain myself in future.
+I wish I had your gift for teaching. Thank you for your channel.",Positive,bBC-nXj3Ng4
+Its  metaverse digital currancybso they can shut your account off this even sounds like Canada's commie Trudoe  like he shut off truckers acounts it's the due or die do what I say not what I do also block chain look them up,Neutral,bBC-nXj3Ng4
+"If a block has to contain the hash of the previous block, wouldn't that mean that the first block wouldn't contain a hash since there was no previous block?",Neutral,bBC-nXj3Ng4
+You just described an elaborated techno ponzi scheme. There is nothing real about crypto currencies. They are fake. And only the greedy and stupid fall for them.,Negative,bBC-nXj3Ng4
+"exceptional explanation, thank you!",Positive,bBC-nXj3Ng4
+not easy but good explanation,Neutral,bBC-nXj3Ng4
+Ripple was third,Neutral,bBC-nXj3Ng4
+"What happens when someone send a block to half the miners, but not the other half, so that the conflicting block chains grow at approximately the same rate due to equivalent computing powers?",Neutral,bBC-nXj3Ng4
+"10:10 Ethereum and Litecoin are NOT decentralized, so many people make this mistake. Ethereum is run by the Ethereum foundation, basically its own CENTRAL BANK. Major flaw in an otherwise good video",Positive,bBC-nXj3Ng4
+"Production of video was great..but the explanation didn't connect with me. But, over 13 million people took it all in.",Neutral,bBC-nXj3Ng4
+Thanks!,Neutral,bBC-nXj3Ng4
+"what happens when your bitcoin payment get's ""rejected"" or just not picked for the blockchain? do you have to keep pressing send every few minutes in hope that it would get picked up ?",Neutral,bBC-nXj3Ng4
+"Respeto el trabajo que pones en tus videos. Me parece realmente desconcertante que todos los principales YouTubers de criptomonedas solo estén mirando ondas puras e ignorando por completo la narrativa más amplia de por qué BTC está bombeando y por qué la perspectiva futura puede no ser tan optimista como parece. Es un poco irresponsable ignorar el hecho de que cada lanzamiento de ETF hasta ahora ha causado un aumento importante en el aumento de BTC. Ya en terreno inestable con volúmenes históricamente bajos y bombas de ballena casi puras, evitamos por poco un mercado bajista a largo plazo. Este es el peor momento de la historia para invertir, ya que muchos no están respaldando sus criptoactivos. Se debe prestar más atención al comercio diario, ya que se ve menos afectado por la imprevisibilidad del mercado... Gané más de 8 BTC con el comercio diario con el Sr. Jared Hermann, información y señales en menos de 2 semanas, junto con las personas que me rodean. Éxito extremo con las señales comerciales del día del Sr. Jared Hermann. Esta es una de las mejores herramientas para proteger su patrimonio en caso de que empiece a decaer. ͲeIєɠɾαm👉@HermannSignals1",Neutral,bBC-nXj3Ng4
+I still don't understand how or who created the first 50 Bitcoin's that was rewarded. I get how currency is the transaction history and but I don't understand the part how the initial bitcoin was created so it can be rewarded and miners can start validating transactions. Because if there are not bitcoins there can't be any transactions to validate. If someone can explain that would be amazing!,Positive,bBC-nXj3Ng4
+Tediousness of proof of work and slight data tempering causes change of hash invalidating all blocks will make crypto currency and block chain technology fail in the future because system with many users will become so confused and inefficient that it will slow down and demand energy more than any system in the world is demanding and is slower than the process of adding new blocks to a block chain system then.,Neutral,bBC-nXj3Ng4
+"Nice video, To those who would allow the market dynamism to determine when to trade or not are either new in space in general or probably just naive, the sphere have seen far worse times than this, enlightened traders continue to make good use of the dip and pump even acquiring more equities towards trading sessions, I'd say that more emphasis should be put into trading since it is way profitable than holding. Trading went smooth for me as I was able to raise over 9.2 BTC when i started at 1.5 BTC in just a few weeks implementing trades with signals and insights from Mrs Marry, i would advise y'all to trade with Mrs Marry your asset rather than hold for a future you aren't sure about or hold it and risk loosing all",Neutral,bBC-nXj3Ng4
+ I have no play buttons.,Neutral,bBC-nXj3Ng4
+<I’m new to cryptocurrency and I don’t understand how it really works.Can someone guide me on the right approach to investing and making profit from cryptocurrency investment?,Neutral,bBC-nXj3Ng4
+"I recommended a professional broker to you guys sometime ago,can i get person who invested with her
+
+Comment belo",Neutral,bBC-nXj3Ng4
+Wonderful,Positive,bBC-nXj3Ng4
+This was well thought out and paced. Very helpful and clear. Thanks.,Neutral,bBC-nXj3Ng4
+"In the example with Alice making her own fradulant ledger, why is it that her ledger doesn't get any more blocks added to it by the community? Why would the miners spend the time on another block chain to beat out hers if they don't know which one to trust?",Positive,bBC-nXj3Ng4
+"finally, I got the answer I wanted, thanks so much",Neutral,bBC-nXj3Ng4
+Thanks!,Neutral,bBC-nXj3Ng4
+18:32,Neutral,bBC-nXj3Ng4
+I've watched many different videos on the subject and even did a course - but this is the best explanation by far.,Positive,bBC-nXj3Ng4
+20:48 what if alice has a quantum computer and could find many numbers before others,Positive,bBC-nXj3Ng4
+"So, let me check my understanding: the main reason to use bitcoin structure, where each block is linked to previous one, is to disallow other participants of cryptocurrency, who hold their own copy of the ledger, to skip some blocks (for example, Bob skips the block with transaction 'Bob pays Alice $10' to fool her). If Bob skips that block, he can't participate further in next transactions, as the majority of others have accepted that block and continue to build next transactions on that block, while Bob create a 'fork' of blockchain that nobody accepts.
+
+But when you received a block with transaction, how do you know wether it is legit, that is, it is a real transaction with mutual aggrement and a fake one? Here's where proof of work comes into play: if we assume that the majority is honest, that single maliciuos user couldn't forge fake blocks as fast as the legit majority creates legit blocks, because he need to make proof of work. The majority simply has more computation power to outperform the malicious user. Hence, the strategy is to peak the blockchain fork with biggest lengths",Neutral,bBC-nXj3Ng4
+Thank you SO MUCH,Neutral,bBC-nXj3Ng4
+Sounds Like You have a few Trust issues with Charlie,Neutral,bBC-nXj3Ng4
+"Their firm is absolutely outstanding! He mentioned that I would start seeing progress within 30 days and that is absolutely true. I have to admit I was a little skeptical at first,but after seeing what you were able to do with my credit after only a few months, it is very reassuring. Each time I've had a question I've been answered in a business day. I would sincerely say that Virtualcryptomines🪐com conducted business in the utmost professional manner.",Neutral,bBC-nXj3Ng4
+"I dont get the part where the hash has to start with 32 zeros, anyone else?",Neutral,bBC-nXj3Ng4
+"I am looking to develop my own coins for two areas in desperate need of fixing. Both in the area of distribution thru proper communication, bringing  two very much in demand products
+that are demanded by customers everyday. Both if not brought under control will bring our Transportation Industry to a halt , a World Disaster.",Neutral,bBC-nXj3Ng4
+Enjoyed this cool visualization of the bitcoin whitepaper 👍,Positive,bBC-nXj3Ng4
+Dude you are the best. It is safe and 100 works,Positive,bBC-nXj3Ng4
+"haga un video sobre transformadas (laplace, fourier, z- transformadas) ya que esto ayudará a muchos estudiantes de ingeniería. Mucha gente da por sentado que se sabe muy poco sobre su significado físico, hay temas en ingeniería basados en transformadas como señales y sistemas. , procesamiento de señales, teoría de control, sus videos seguramente marcarán una diferencia en la comprensión de estos temas.",Neutral,bBC-nXj3Ng4
+"If I trade you dope for your EBT, is that considered a “crypto currency” ?",Neutral,bBC-nXj3Ng4
+💓 🇮🇮🇮 📛📛,Neutral,bBC-nXj3Ng4
+➗,Neutral,bBC-nXj3Ng4
+🇳🇳,Neutral,bBC-nXj3Ng4
+🙅🙅🙅,Neutral,bBC-nXj3Ng4
+🇳 💫,Neutral,bBC-nXj3Ng4
+😅😅😅,Neutral,bBC-nXj3Ng4
+😿😿😿😩😩,Neutral,bBC-nXj3Ng4
+🆒🆒😙☑☑,Neutral,bBC-nXj3Ng4
+🇨,Neutral,bBC-nXj3Ng4
+🇪🇪🇪 😗😗,Neutral,bBC-nXj3Ng4
+💨💗💗💗,Neutral,bBC-nXj3Ng4
+😗 💛💛,Neutral,bBC-nXj3Ng4
+😫😫 🇱🇱,Neutral,bBC-nXj3Ng4
+🇨🇨🇨,Neutral,bBC-nXj3Ng4
+💣 🇷🇷,Neutral,bBC-nXj3Ng4
+"One note: a more accurate word for a blockchain is a *distributed* system.  Decentralized systems, logically, are chaotic, and have no central rules governing their behavior, which would, obviously, be terrible for a currency.  Bitcoin is hyper-centralized, which is what makes it so hard to hack.  The rules are very, very rigid, and anyone who tries to violate those central rules will get booted out of the system (which is also where hard forks come into play, as some folks want to changed the rules of Bitcoin, and had to split off and become a different currency).",Neutral,bBC-nXj3Ng4
+You nailed this explanation!,Neutral,bBC-nXj3Ng4
+"Brilliant explanation, thanks!",Positive,bBC-nXj3Ng4
+2 to the power of 256 is one hundred Quattuorvigintillion,Neutral,bBC-nXj3Ng4
+Has somebody translated this video into Russian?,Neutral,bBC-nXj3Ng4
+Excellent level of detail. Thank You.,Positive,bBC-nXj3Ng4
+"Question, what would happen to the decentralized nature of the system if one person or organization achieved complete quantum computational supremacy, will they be able to manipulate/control the system? Assuming they are the sole possessor of such supremacy. Sorry if this was already told/implied/explained or partly so during the video.",Neutral,bBC-nXj3Ng4
+"wow, this is such an interesing video..because of my little knowledge about cryptography i was able to understand the concept almost fully!!",Neutral,bBC-nXj3Ng4
+"But you can generate a private-public key from a digital signatures,correct?",Neutral,bBC-nXj3Ng4
+This is incredibly well done.,Positive,bBC-nXj3Ng4
+"So if someone has 50% of processing power in the world, they can do whatever they want with the Blockchain?",Neutral,bBC-nXj3Ng4
+"9:56 you seem to forgot to explain ""how new money enters the ledger"" part. How new money gets entered in the ledger???",Neutral,bBC-nXj3Ng4
+"I think if you ever created a video game , you should have some clear knowledge about bitcoin , its like creating you own in-game currency!",Neutral,bBC-nXj3Ng4
+"A few questions that really confused me:
+1. Why don't we remove the reward and have the transaction fee given to the miners only?
+2. Seems that it is up to every miners to pick which transactions to be included to the block by themselves. In this case, how do the miners know which transactions are already included in the blockchain?
+3. say person A & person B is trading via Bitcoin, do they wait for the transaction to be included into the blockchain before completing the trade?
+
+Thanks for you answering",Neutral,bBC-nXj3Ng4
+Literally the best explanation I have ever seen on this subject. Thank you 3B1B.,Positive,bBC-nXj3Ng4
+"In most states, attending traffic school will remove traffic violations related to an accident, such as speeding. traffic school will not necessarily remove the record of the accident from your driving history prior to its expiration period, but can remove the traffic violation points incurred by the accident. An automobile accident often results in increased insurance premiums and, in some cases, can even jeopardize a person's employment. If you have ever been in an accident, you can find out if your state offers options for removing the accident from your record or you can have these records cleared by MARKENSTECH911🎆COM who helped me remove accidents from my driving history and the service was quite affordable, i recommend Them. ",Neutral,bBC-nXj3Ng4
+"In most states, attending traffic school will remove traffic violations related to an accident, such as speeding. traffic school will not necessarily remove the record of the accident from your driving history prior to its expiration period, but can remove the traffic violation points incurred by the accident. An automobile accident often results in increased insurance premiums and, in some cases, can even jeopardize a person's employment. If you have ever been in an accident, you can find out if your state offers options for removing the accident from your record or you can have these records cleared by MARKENSTECH911🎆COM who helped me remove accidents from my driving history and the service was quite affordable, i recommend Them.",Neutral,bBC-nXj3Ng4
+Can a quantum computer with enormous computing power pose any security threat to blockchain?,Neutral,bBC-nXj3Ng4
+Can someone refer to the resources of this vid?  It was extremly helpful if we could use them,Neutral,bBC-nXj3Ng4
+Amazing and informative video! Would you make a video covering Cardano's proof of stake model - Ouroboros? Thank you again!,Positive,bBC-nXj3Ng4
+"Crypto is a type of ""digital"" fiat currency created out of thin air which is not tied to any tangible assets like Gold or silver. Zero Value!. They are luring you in under the notion that it could make you a millionaire and this is how they walk you into a new monetary system. Ultimately, these cryptos are also owned by them and ignorant sheeples under the greed of becoming rich flock towards their slaughter houses. They are actually ushering in AI, transhumanism, global control and dominance to make humanity even more enslaved. Buy a land, learn to grow your own food and be self sustained. Get away as much as possible from their NWO, WEF, Agenda 21 Crap.",Neutral,bBC-nXj3Ng4
+If only we could get cryptocurrencies for sharing videos 😉,Neutral,bBC-nXj3Ng4
+"Now, does SHA have the same issue that RSA had, where it was only a matter of time before hackers managed to work their way up to being able to solve a big enough bit count?",Neutral,bBC-nXj3Ng4
+What the heck are these bolded comments and why are they getting hundreds of likes,Neutral,bBC-nXj3Ng4
+3 in the blue and 1 in the Brown is what i always say,Neutral,bBC-nXj3Ng4
+Why is this video being swarmed by bots,Neutral,bBC-nXj3Ng4
+"People naver know how to avoid making losses while trading, you need to get full understanding and knowledge it is not something you just gamble, Mr.Alece.consistent and constructive. I am getting the best from it.",Positive,bBC-nXj3Ng4
+I've seen alot of videos related to this but this one is really informational.,Neutral,bBC-nXj3Ng4
+"After studying blockchain tutorials, Merkle tree, symmetric and asymmetric keys concepts, I finally found this video which put all the pieces of my learning together in one thread and make me understandable complete picture of block chain workflow.",Neutral,bBC-nXj3Ng4
+"Regarding the transaction fees, what happens if no miners pick up a transaction in the next block? Is it eventually picked up in the next block, or the next one… or can it be “lost” ?",Neutral,bBC-nXj3Ng4
+Im still having trouble with these private keys...anyway thank you...,Neutral,bBC-nXj3Ng4
+The best explanation i have ever seen for blockchain. Thank you for your hard work,Positive,bBC-nXj3Ng4
+Good morning and thanks for the update.,Positive,bBC-nXj3Ng4
+thanks,Neutral,bBC-nXj3Ng4
+"7:39 if charlie pays everyone thousands of dollars,why he gets an ower?",Neutral,bBC-nXj3Ng4
+"Thank you so much for this very informative video. The block chain methodology appears to have devised a way to ensure secure transactions; and people smarter people than me have likely answered most of the objections, I guess I remain skeptical. I base this on nothing more than human nature, greed, and the ability of people with personal motives to somehow work the system to their own benefit. For example, why couldn't a clever programmer just place 30 zeroes - followed by a random number set at the end of his block chain (after inserting his payoff), then replacate a large number of these pseudo-blocks and rapidly distribute them in quantity to an unsuspecting world? And, Bob's your uncle, and Bitcoin becomes another Magino Line to be circumvented.",Neutral,bBC-nXj3Ng4
+bitcoin is math money,Neutral,bBC-nXj3Ng4
+"I still don't understand who decides the difficulty of the challenge? The protocol?
+In other words, who tells the miners how many zeros must be at the beginning of the digest?",Neutral,bBC-nXj3Ng4
+"ok first bout of info I've ever learned on this. I don't understand how it is verified how much computational work is put into something. What does ""computational work"" mean practically speaking? And how do people know that there was a lot done -- I AM CONFUSION",Neutral,bBC-nXj3Ng4
+"I'm new to crypto trading what's the best way to get started with trade cos I've been making my personal research for a while now, i don't know how to trade on cryptocurrency",Positive,bBC-nXj3Ng4
+"Good evening, we are from Ukraine.🔰
+We really need any help!!!🔰
+ETH 0x29c1fe83b70eecd07098a1c9622aa1bb24464dbb
+BTC 1PEnK2eumiG2pHf5HGX2arpitNG7zBXS6C",Positive,bBC-nXj3Ng4
+"the spam bots under anything crypto related are just completely ridiculous, maybe 1 out of 10 comments are made by a real person here",Neutral,bBC-nXj3Ng4
+Bitcoin is highly rated in the majority of the people that are commenting on here are nothing but robots click on their page and look at what they comment on nothing but Bitcoin and very few post on anything else it's a scam people,Neutral,bBC-nXj3Ng4
+probably one of the best explanations of the blockchain that i have seen,Positive,bBC-nXj3Ng4
+NICE VIDEO..... PLSI HAVE INCURRED SO MUCH LOSSES TRADING ON MY OWN...I TRADE WELL ON DEMO BUT I THINK THE REAL MARKET IS MANIPULATED... CAN ANYONE HELP ME OUT OR AT LEAST TELL ME WHAT I'M DOING WRONG?,Neutral,bBC-nXj3Ng4
+"Hmm... yes, indeed... I understand..... 🙃",Neutral,bBC-nXj3Ng4
+FoodzParty WL mint april 19 12pm ct! epic nft collection guys <3,Positive,bBC-nXj3Ng4
+"17:30 block creators
+17:51 block reward
+18:29 mining
+19:10 decentralized consensus",Neutral,bBC-nXj3Ng4
+"When Alice makes a transaction to Bob, she announces the transaction to the miners. However, if a miner makes the next block without Alice's transaction in it, what will happen to her transaction? Will it remains unhandled to those miners who have the record, and be added into the blockchain once those miners make a new block afterwards? Or it will be broadcasted again to all miners? 
+
+Besides, is it possible some miners do not receive the broadcast?
+
+Appreciate if some experts can enlighten me in these questions, really a complex idea to grasp.... But this video is undoubtedly a great piece! Cheers!!",Neutral,bBC-nXj3Ng4
+test,Neutral,bBC-nXj3Ng4
+"<An ex-colleague convinced me into stock trading and investments as profitable alternative sources of income. Unfortunately, I have been down ever since. Next time, I will spend my money on myself first before considering whether I will invest or not.>",Neutral,bBC-nXj3Ng4
+Visa has more tx thruput but very slow finalization,Neutral,bBC-nXj3Ng4
+"What if the block that is being verified (mined) has a false transaction?  It hasn't yet been added to the blockchain, so I could write ""joe pays me 100 bitcoin"" as I solve that block, and now there's no way to verify it because there's no final hash yet.  Once its solved, it'll add to the chain, and now my false transaction is locked without any way to prove otherwise.
+
+What am I missing?",Negative,bBC-nXj3Ng4
+2022 still watching?,Neutral,bBC-nXj3Ng4
+useful haha,Neutral,bBC-nXj3Ng4
+"The best time to buy bitcoin is in 2009, the second best is now.",Positive,bBC-nXj3Ng4
+"My brain short circuited halfway through and i woke up in Japan, Crypto is bullshit and should be outlawed the u.s. has started taxing it but the global,governments know its a bunch of unearned ficticious and unaccountable nerd math hacking the banks and Zurich's central bank has started tracking all exchanges so they can begin to cease all crypto investots accounts. They plan to give a life sentence to the inventor for masterminding a grand ponzi scheme, hes in deep doo doo, yall better sell now.",Neutral,bBC-nXj3Ng4
+"Someone told me that it's the best time to buy  Bitcoin, because there will soon huge pump",Positive,bBC-nXj3Ng4
+turn off the power grid and good luck with energy powered currant-see,Positive,bBC-nXj3Ng4
+This just taught me so much. Thank you. Subscribed.,Neutral,bBC-nXj3Ng4
+"out of the 33k comments on this video, I doubt even 10k are real people",Neutral,bBC-nXj3Ng4
+still the best bitcoin explainer vid on the net. Thank You.,Positive,bBC-nXj3Ng4
+good),Positive,bBC-nXj3Ng4
+the amount of scam bots under this video is insane.,Negative,bBC-nXj3Ng4
+"If you designed blockchain, you would know the formula to deconstruct all other private keys at least enough to make good enough guesses to steal money whenever u wanted. This technology is garbage but if enough pos uses it, whatever i guess.",Neutral,bBC-nXj3Ng4
+I love how you made this video. Thanks for your work.,Positive,bBC-nXj3Ng4
+Hello there. This is the one random comment made by a real person.,Neutral,bBC-nXj3Ng4
+"Americans income will be tracked by our politicians, I would like to say honest public servant, I believe most citizens know better to use honest and politicians in the same sentence.",Positive,bBC-nXj3Ng4
+"This is a reminder to report any comments typed in bold you see in this comment section as spam. These comments, as well as their replies, are all crypto scam bots advertising a fake crypto site.",Neutral,bBC-nXj3Ng4
+"Every new day, Bitcoin gains support and patronage of more and more politicians, billionaires, finance institutions and institutional investors. Could even surpass the 60k June 2022 forecast.",Positive,bBC-nXj3Ng4
+"So first of all, love the vid
+
+Just wanted to say from a purely meta kind of standpoint, I really love how this video is put together. Not even just the editing / graphics and what not, but just the way you tell the story. I'm constantly asking questions in my mind and it's like within the next minute or two you provide an answer. I'm definitely studying a lot of your videos to learn how to improve my own content because you do a masterful job at keeping your audience engaged. Fantastic work",Positive,bBC-nXj3Ng4
+"Do you guys actually think that cryptocurrency is healthy and sustainable at all? Where does your magic money come from? Don't get me wrong, fiat currency sucks bad too. Every currency has its problem but crypto doesn't really solve any either. It being digital is a huge risk as well. I guess you should abuse it while you can. It surely won't be forever that way.",Neutral,bBC-nXj3Ng4
+Why is this video half an hour?,Neutral,bBC-nXj3Ng4
+Genio!,Neutral,bBC-nXj3Ng4
+$AMC 2 da moon! 🍿🦍🚀🙏🏻✌🏼😁👍🏼💰,Neutral,bBC-nXj3Ng4
+👀,Neutral,bBC-nXj3Ng4
+"non car si vraiment sa dérangeais les banques les politiciens l aurais déja interdit , c est juste vous les traitres , les lache les vendue les vaccinées qui mettez en place le nouvel ordre mondial et la monnaie numérique , ont en veut pas de ta merde de bitcoin , sans monnaie ont ne pourra rien vendre sans informatique rien vendre sans etre contrôlé et ont peut tous perdre a cause de piratage , moi j ai une seul envie , tous vous buté bande de fils de chien",Neutral,bBC-nXj3Ng4
+有 也不想知道,Neutral,bBC-nXj3Ng4
+is there a way to prove or ask for help and support satoshi nakamoto or patoshi is a filipino citizen or of origins?,Neutral,bBC-nXj3Ng4
+Your ability to teach the complex and confusing  things in simple and visualisation form is god level🔥🔥,Neutral,bBC-nXj3Ng4
+"When trying to get late payments removed on an active account, if it cannot be verified by the bureaus, do they remove that late payment and show on time payment for that month, show no information available for that month, or delete that account off the credit report? I want to get my late payment history corrected but not sure how disputing with the credit bureaus affects the active account if they cannot verify the information to be accurate, I wouldn't have been able to take them off if not me meeting MarKensTech911CoM...",Neutral,bBC-nXj3Ng4
+"When trying to get late payments removed on an active account, if it cannot be verified by the bureaus, do they remove that late payment and show on time payment for that month, show no information available for that month, or delete that account off the credit report? I want to get my late payment history corrected but not sure how disputing with the credit bureaus affects the active account if they cannot verify the information to be accurate, I wouldn't have been able to take them off if not me meeting MarKensTech911CoM...",Neutral,bBC-nXj3Ng4
+"When trying to get late payments removed on an active account, if it cannot be verified by the bureaus, do they remove that late payment and show on time payment for that month, show no information available for that month, or delete that account off the credit report? I want to get my late payment history corrected but not sure how disputing with the credit bureaus affects the active account if they cannot verify the information to be accurate, I wouldn't have been able to take them off if not me meeting MarKensTech911CoM...",Neutral,bBC-nXj3Ng4
+"When trying to get late payments removed on an active account, if it cannot be verified by the bureaus, do they remove that late payment and show on time payment for that month, show no information available for that month, or delete that account off the credit report? I want to get my late payment history corrected but not sure how disputing with the credit bureaus affects the active account if they cannot verify the information to be accurate, I wouldn't have been able to take them off if not me meeting MarKensTech911CoM...",Neutral,bBC-nXj3Ng4
+"When trying to get late payments removed on an active account, if it cannot be verified by the bureaus, do they remove that late payment and show on time payment for that month, show no information available for that month, or delete that account off the credit report? I want to get my late payment history corrected but not sure how disputing with the credit bureaus affects the active account if they cannot verify the information to be accurate, I wouldn't have been able to take them off if not me meeting MarKensTech911CoM...",Neutral,bBC-nXj3Ng4
+Thanks for this amazing video sir!,Positive,bBC-nXj3Ng4
+"Your information is priceless and i find it truly baffling as youtubers completely look at TA and ignore the bigger narrative of why there is a pump. Btc pumped due to the future ETF release, It's kind of irresponsible to ignore the fact that each ETF launch so far has caused a major dump at the peak of BTC.The entire space has always been volatile that's why we must always back up our crypto so that you do not have to be bothered when it goes bearish.I have always played safe in the space with a less talked about medium, trad ing.Rather than buying the dip and waiting for a pump, I just get to trade my assets with insight and signal provision from 👉Mergetrade{VlA Te le gr am} I have made over 7 btc in March",Neutral,bBC-nXj3Ng4
+this is so far the best video i've seen on this topic,Positive,bBC-nXj3Ng4
+Thanks!,Neutral,bBC-nXj3Ng4
+I HAVE BEEN MAKING LOSSES TRADING BITCOIN MYSELF...I THOUGHT TRADING ON DEMO ACCOUNT IS JUST LIKE TRADING THE REAL MARKET... CAN ANYONE HELP ME OUT OR AT LEAST ADVICE ME ON WHAT TO DO,Neutral,bBC-nXj3Ng4
+"Morons.
+
+You guys all realize this is total bullshit, right?  I can't believe how many stupid people there are in this world.
+
+THIS IS A PONZI SCHEME THAT WILL COLLAPSE.
+
+Idiots.",Negative,bBC-nXj3Ng4
+Hey Grant can you maybe go through the comments and get rid of the people who claim to be a software engineer and that crypto is the new big thing? They're all just a bunch of spamming bots.,Neutral,bBC-nXj3Ng4
+Hype lol,Positive,bBC-nXj3Ng4
+So after a miner writes a block the other miners still need to write that block? So that if down the line there is a longer block chain you can change the block to that which the other miners wrote?,Neutral,bBC-nXj3Ng4
+"this is fascinating, but I do want to know, what are the shortcomings of the current currency system? Is there a need for a centralised public receipt for all transactions made globally? And is the volatility of these currencies worth it..?",Neutral,bBC-nXj3Ng4
+Someone told me that it's the best time to buy because there will be a huge pump soon,Positive,bBC-nXj3Ng4
+Where does the value of the money come from?,Neutral,bBC-nXj3Ng4
+I can't believe this video was made in 2017. Today I understood PoW properly.,Neutral,bBC-nXj3Ng4
+A 26 minute video to explain to a bunch of idiots what a worthless decentralized hashfile currency is.,Negative,bBC-nXj3Ng4
+"You are right sir! your explanation is very easy to follow up. I remember when I just got into crypto back in 2019 but later in 2021 I ended up selling it because I was dumb and I didn't understand it. I studied and learned and now I know how it works. Got back into crypto early in january and looks like we have the same mentality, I admit that seeing a -50% hurts but it's not a realized loss until you sell. Now<, I buy and just trade long term more than ever, I made over 1 btc from weeks trading with Mr Kenneth jayden Signal.",Neutral,bBC-nXj3Ng4
+"GREAT VIDEO!! Before this I watched some videos about what it is and how cryptocurrency works. But they really couldn't describe how cryptocurrency works. They gave some vague analogies which I really couldn't understand well, Can't really blame them! They might know the thing from core but wouldn't tell it in the video so to make a short and interesting video that will attact and retain viewers. 
+
+Then I found your video. Hesitated a bit noticing the video length but watched it anyway!  I think Now I REALLY understand the very basics of what crytocurrency is how it works. I still have questions Though I know I very likely wouldn't find answers of those as youtubers are oversimplifying things. But anyway a REALLY GREAT video!! THANKS for doing this!!",Positive,bBC-nXj3Ng4
+"👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆For more information messages him, he have helped a lot of people that got scammed..",Positive,bBC-nXj3Ng4
+But muh Hex coin.,Neutral,bBC-nXj3Ng4
+"I actually sort of understand Bitcoin now, thank you!",Neutral,bBC-nXj3Ng4
+"There's no doubt that cryptocurrencies are a brilliant invention. But you actually don't have to be a genius to benefit from them. If you think that trading is too complicated and cloud mining is too risky, I recommend that you familiarize yourself with trending services for defi mining, such as Minto finance or Mars project.",Neutral,bBC-nXj3Ng4
+I watch this every now and then.,Neutral,bBC-nXj3Ng4
+how do i know my sk?,Neutral,bBC-nXj3Ng4
+whats the best app for buying crypto🤔?,Positive,bBC-nXj3Ng4
+"Sorry, I am sure this is knowledgeable information, but this went right over my head.  Just learning about crypto.  This is the second video I watched, but isn't this just one big pyramid scheme?  If nothing is backing it, where is the money coming from and how is money being made owning bitcoin?",Neutral,bBC-nXj3Ng4
+i have 5 million bitcoin to trade with first customer of windows vista 2022 edition,Neutral,bBC-nXj3Ng4
+"Whoever did this:
+Thank you.
+I wish I had you working with me!",Neutral,bBC-nXj3Ng4
+The fact that no one seems to understand this no matter how many times it’s explained.,Positive,bBC-nXj3Ng4
+So that's why the fees get higher!! tysm!,Positive,bBC-nXj3Ng4
+What is bitcoin burning?,Neutral,bBC-nXj3Ng4
+18:01 Can miner gets any amont ledge dolar or is there a any limit?,Neutral,bBC-nXj3Ng4
+How do I make sure that others receive a transaction I do and include it in their blocks?,Positive,bBC-nXj3Ng4
+"only thing I hate about crypto:
+fucking bots in comment section",Negative,bBC-nXj3Ng4
+"Hello sir, nice to meet you, I want to discuss a business with you, can you tell me your answer?",Positive,bBC-nXj3Ng4
+"I have been doing some research on the market too,it was quite challenging to understand the different trends on my own until I found out about Laura,trading made easy",Positive,bBC-nXj3Ng4
+"This is one of the most strategic, insightful videos I've watched in years I am BLOWN away. I am working on writing an app to help people learn about surprise medical bills and how to avoid them, and I am going to site you and your tips in my app. Thank you SO much, you are a gift to so many vulnerable people I know it. And *Moneyhaveninvestment🟡org* is a gift to get the America because of the invstment strategy",Neutral,bBC-nXj3Ng4
+"This is one of the most strategic, insightful videos I've watched in years I am BLOWN away. I am working on writing an app to help people learn about surprise medical bills and how to avoid them, and I am going to site you and your tips in my app. Thank you SO much, you are a gift to so many vulnerable people I know it. And *Moneyhaveninvestment🟡org* is a gift to get the America because of the invstment strategy",Neutral,bBC-nXj3Ng4
+"This is one of the most strategic, insightful videos I've watched in years I am BLOWN away. I am working on writing an app to help people learn about surprise medical bills and how to avoid them, and I am going to site you and your tips in my app. Thank you SO much, you are a gift to so many vulnerable people I know it. And Moneyhaveninvestment🟡org is a gift to get the America because of the invstment strategy",Neutral,bBC-nXj3Ng4
+NO ONE DOES IT BETTER THAN *MONEYHAVENINVESTMENT🟠ORG* THEY DELIVERED AT THE SPECULATED TIME AND ACCURATE DELIVERY. GOD BLESS YOU,Positive,bBC-nXj3Ng4
+Tysm,Neutral,bBC-nXj3Ng4
+"Great video that explains how bitcoin works.  From my understanding there are only 21Mil bitcoins possible...what happens in 2040 when that limit ie reached...will mining stop or due to scarcity the value of bitcoins go up.  To contrast it with regular currency, governments can just issue more currency...who would issue more bitcoins once the limit is reached? thx. BTW awesome video/animation ...what software was used for it?",Positive,bBC-nXj3Ng4
+"Great explanation, I do have one question though.
+Why do miners need to look for an imput that gets an output with a certain amount of 0’s? What about 30+ 1’s…. Or isn’t any output number equally unique?",Positive,bBC-nXj3Ng4
+I have achieved advanced brain hurt,Positive,bBC-nXj3Ng4
+عربي مر من هنا,Neutral,bBC-nXj3Ng4
+But how does bitcoin actually work?,Neutral,bBC-nXj3Ng4
+Amazing explanation,Positive,bBC-nXj3Ng4
+Does Bitcoin have a 4 year cycle?😁😁,Neutral,bBC-nXj3Ng4
+oh my god disable comments please,Neutral,bBC-nXj3Ng4
+Thanks 3blue1brown. Now Google thinks I want to start buying all the buttcoins.,Neutral,bBC-nXj3Ng4
+Realmente Educativo,Neutral,bBC-nXj3Ng4
+"When you make the right decisions and take the right steps in trading the chances of losing your funds becomes slimmer and almost impossible especially when you have the right Miner helping you trade, miss jones_caro on IG does mine.",Neutral,bBC-nXj3Ng4
+The statements at 3:07-->3:15 seem backwards,Neutral,bBC-nXj3Ng4
+So how do I get the bitcoin again.,Neutral,bBC-nXj3Ng4
+"This is one of the most strategic, insightful videos I've watched in years I am BLOWN away. I am working on writing an app to help people learn about surprise medical bills and how to avoid them, and I am going to site you and your tips in my app. Thank you SO much, you are a gift to so many vulnerable people I know it. And *MONEYHAVENINVESTMENT🪐ORG* is a gift to get the American's credit back in track <3",Neutral,bBC-nXj3Ng4
+"This is one of the most strategic, insightful videos I've watched in years I am BLOWN away. I am working on writing an app to help people learn about surprise medical bills and how to avoid them, and I am going to site you and your tips in my app. Thank you SO much, you are a gift to so many vulnerable people I know it. And *MONEYHAVENINVESTMENT🪐ORG* is a gift to get the American's credit back in track <3",Neutral,bBC-nXj3Ng4
+11:30 one possible solution can be to have a central clock and link that clock to all ledgers . Also when broadcasting that ledger line we can add the time . This is one possible solution,Neutral,bBC-nXj3Ng4
+Can someone help me understand this video? Sorry for asking this but I really want to understand.,Neutral,bBC-nXj3Ng4
+so the basis of crypto is gambling Oo ? why you call it mining ? mining is is not looking randomly to find resource. mining is digging to extract resources from areas where it is known to have it,Negative,bBC-nXj3Ng4
+"i wanna know more about Metaverse, coz I'm intrigued with METAGODS",Positive,bBC-nXj3Ng4
+I’m not smart,Neutral,bBC-nXj3Ng4
+I still don't get why.,Neutral,bBC-nXj3Ng4
+"><Your contents are really educative 3Blue1Brown !!!Staying prof!table r0und the clock should be the g0al of every investor and trader alike, which is why I trade daily to increase my hoIdlngs. Even though am not an exprt tradr I always ensure to trad e using trad e s!gnals of expert traders like Morgan Tsoy . With Morgan's help I've accumulated over 4btc using her methods and strategies..<>>",Neutral,bBC-nXj3Ng4
+was it your idea for the Wayne Dreadski hbar giveaway?,Neutral,bBC-nXj3Ng4
+its shocking that women and colors understand crypto,Negative,bBC-nXj3Ng4
+i am eager for the hbar giveaway w/ Wayne Dreadski,Neutral,bBC-nXj3Ng4
+everyone hates dreadski because he has so much hbar,Neutral,bBC-nXj3Ng4
+wayne dreadski giveaway will be a car or like 100k hbar,Neutral,bBC-nXj3Ng4
+the day Wayne Dreadski is allowed in crypto I...I QUIT,Neutral,bBC-nXj3Ng4
+Women and minorities like Wayne Dreadski plz stay out,Neutral,bBC-nXj3Ng4
+its because Dreadski a 250k hbar giveway will start,Neutral,bBC-nXj3Ng4
+dam crypto will suck if wayne dreadski stays in it,Neutral,bBC-nXj3Ng4
+Thanks!,Neutral,bBC-nXj3Ng4
+"When Alice tries to fool Bob, why does Alice not broadcast the dirty block to everyone? If so, wouldnt everyone just continue adding blocks to that faulty block?",Negative,bBC-nXj3Ng4
+DO U FUCKIN IDIOTS KNOW HOW MANY SEXSLAVES WAS SOLD WITH BITCOIN... HOW MANY DRUGS AND GUNS... IM SO GLAD I NEVER TOUCHED THAT BS !!!,Positive,bBC-nXj3Ng4
+Can you make a video about NFT? I mean whats really happening in the computer when minting NFT,Neutral,bBC-nXj3Ng4
+Isn’t the transaction fees some kind of bribery ?,Positive,bBC-nXj3Ng4
+"I< have mixed feelings of more government involvement. The whole point of cryptocurrency was to be decentralized and yet we have an exchange and now regulations. More emphasis should be placed on trading, as it is more profitable than holding, trading went smooth for me as I was able to raise over 8 BTC when I started at 2 BTC in just few weeks implementing Mrs Stacy Wilfred daily trading signals and tips👏👏",Positive,bBC-nXj3Ng4
+I'm new to cryptocurrency and I don't have a knowledge on how to trade on Cryptocurrency. Where can I find a legit broker? that will manage my account and also teach me how to trade.........,Neutral,bBC-nXj3Ng4
+good video,Positive,bBC-nXj3Ng4
+Great video! Please do one on proof of stake (Ethereum 2.0)!,Positive,bBC-nXj3Ng4
+👆it work perfect with him  he help people a lot  is real not scam 👆👆I believe in him with successful Bitcoin confirmation,Positive,bBC-nXj3Ng4
+👆it work perfect with him  he help people a lot  is real not scam 👆👆I believe in him with successful Bitcoin confirmation,Positive,bBC-nXj3Ng4
+I want to trade in Cryptocurrency but because of it's fluctuations in prices I got confused. Can someone please recommend a legit professional trader that can trade on my behalf and generate profits for me?,Neutral,bBC-nXj3Ng4
+Nice video about cryptocurrency! Come check out our channel as well for information & news about the Cryptocurrency Space!,Positive,bBC-nXj3Ng4
+"This seems to imply that every time a new transaction is made, any miner that wants to include that transaction on their block would need to start their calculation of the next block over. That doesn’t make sense to me. What am I misunderstanding?",Neutral,bBC-nXj3Ng4
+I love how pissed off the other miners look when one of them gets the block lol,Positive,bBC-nXj3Ng4
+"if the block reward gets too small the amount of miners are going to decrease so ""alice"" the scammer might have a chance to create her's own blockchain. right?",Neutral,bBC-nXj3Ng4
+< I HAVE ATTRACTED SO MUCH LOSSES TRADING ON MY OWN...I TRADE WELL ON DEMO BUT I THINK THE REAL MARKET IS MANIPULATED... CAN ANYONE HELP ME OUT OR AT LEAST TELL ME WHAT I'M DOING WRONG ?,Neutral,bBC-nXj3Ng4
+"*Determination is highly needed in stocks trading. What most people see at a glance wealth, a great career, purpose is the result of hard work and hustle over time*",Positive,bBC-nXj3Ng4
+"*Its never too late to start from somewhere , I am lucky to have found this source, it’s the future*",Neutral,bBC-nXj3Ng4
+"*I have no problem with my current nvestment company, it’s the best choice I ever made hands down*",Positive,bBC-nXj3Ng4
+"*The first step to learning day trading is reading books and watching videos! This is the process of gaining knowledge. But remember, just because you read a book on sky diving doesn’t mean you’re ready to jump out of an airplane!. you must work with an advisor*",Neutral,bBC-nXj3Ng4
+"*Successful people don't become that way overnight .most  people you see  as a glance-wealth, a great career, purpose-is the result of hard work and hustle over time. I pray that anyone who reads this will be successful in life*",Positive,bBC-nXj3Ng4
+"*Its never too late to start from somewhere , I am lucky to have found this source, it’s the future*",Neutral,bBC-nXj3Ng4
+*I’ve been a good husband to my wife and a good father to my kids since have been able to pay the family bills I really appreciate this name below. thanks once more*,Positive,bBC-nXj3Ng4
+"*The future is now , you all need to start somewhere no matter how small*",Neutral,bBC-nXj3Ng4
+"Money is an issue that everyone has for a better and luxurious life, Life was hard for me until I started trading bitcoin and am now earning $18,435 per week",Neutral,bBC-nXj3Ng4
+"Getting a way to make income without having to leave home isn’t exactly as easy as you all think it is , talk is cheap and it’s sure easier said than done , I have my source , and I would rather stick to that, it pays well, even my stepdad quickly joined before it’s too late",Positive,bBC-nXj3Ng4
+"*I urge everyone to start somewhere now no matter how small, this is literally the time for that, forget material things , don’t get tempted*",Neutral,bBC-nXj3Ng4
+*Success is about focusing Your energy on what creates results and using what you already know*,Positive,bBC-nXj3Ng4
+￼,Neutral,bBC-nXj3Ng4
+"*I understand these are hard times but we need to really consider the fact that nvesting helps keep the finnance of our future secured , you all need to start somewhere, the name below is the best*",Neutral,bBC-nXj3Ng4
+"*Thanks a lot⤴️For all the effort you laid, for making me smile when I was in blue, and for sacrificing your all to me. So blessed to deal with you*",Neutral,bBC-nXj3Ng4
+"*I have been on stocks for quite a while now and it’s been going well , but I would also like to find a new place to expand you know what I mean?*",Neutral,bBC-nXj3Ng4
+"respect your content mate..The market is not being manipulated to screw you out of your trade. The market doesn't know who you are and our individual trade sizes are nowhere near big enough to be noticed, stop blaming outside factors when you lose a trade. Focus on refining your process and highlighting if there is anything you could’ve  done better. If not, then it's just a loss, that's all. That is why you should be caution and trade with the guidance of an expert when going into the crypto world. All thanks to exclusive signals from kelly nathan I have made 19BTC with 6.4 in 3 weeks of trading you can reach him on ͲeIєɠɾαm👉kellinathanni",Neutral,bBC-nXj3Ng4
+man i remember when BTC was $2550... BaCk In My DaY...,Neutral,bBC-nXj3Ng4
+"First time watch, I loved it. You explained terminology and used real world examples to explain their relevance. crypto remains a priority, Great job, ill,be subscribing",Positive,bBC-nXj3Ng4
+"Der Kryptomarkt war instabil. Die Leute fragen sich, ob dies der richtige Zeitpunkt ist, um zu investieren? Bevor ich zum Schluss komme, schauen wir uns zuerst die Dinge an. Der Rückgang des BTC-Preises bedeutet, dass Analysten weiterhin geteilter Meinung darüber sind, ob BTC in einen Bärenmarkt eintritt oder auf dem Weg zu weiteren Rekordhöhen nur eine kurze Korrektur erleidet. Anleger, die früh gekauft haben, erzielen trotz des jüngsten Kursrückgangs immer noch Gewinne und verdienen auch am Handel. Ich bin immer noch ein Investor und ich gewinne immer noch, indem Sie bei jedem Trade dieselbe Methode anwenden, können Sie auch heute ein Gewinner sein. Wir sollten dem Weg folgen, mehr zu verdienen, unabhängig davon, wie der aktuelle Markt (Bullen oder Bären) handelt. Ich habe über 10 BTC-Gewinne erzielt, nicht nur durch den Kauf des Dips, sondern auch durch die Implementierung von Trades mit Signalen, die von Gregg Byler, einem erfahrenen Trader, bereitgestellt wurden. Ich würde jedem raten, sein Vermögen zu handeln, anstatt es für die Zukunft aufzusparen, bin mir nicht sicher ... Gregg ist unter ͲeIєɠɾαm {@ GreggByler} erreichbar",Neutral,bBC-nXj3Ng4
+I need someone who will teach me true on how crypto/forex work. Having other sources of income is good,Positive,bBC-nXj3Ng4
+"My brain just committed suicide...
+
+
+
+
+
+No offense the explanation is neat.... But my brain just can't handle this...",Neutral,bBC-nXj3Ng4
+Hi,Neutral,bBC-nXj3Ng4
+Wow. This was incredibly well illustrated and well done,Positive,bBC-nXj3Ng4
+"Sending this to a friend to get them into crypto, thanks!",Neutral,bBC-nXj3Ng4
+"Most people don't understand the concept of "" buying the dip "" <buying the dip is all about buying digital assets when their prices are down and selling off when the price rises just has the current market is down . Holding is profitable , although trading is far more profitable . I was able to grasp the knowledge of trading crypto assets early enough, but i was still limited due to my lack of technical understanding of how to analyse the digital market , all that changed when i encountered Marcus chun services., although i have been into numerous services but *Marcus chun* stands out with experience and expertise playing in his favor . I must confess it wasn't an easy task to learning the routes on trading but with the assistance of Marcus chun it was more easier to understand, It’s very important to educate yourself before you dive in....",Neutral,bBC-nXj3Ng4
+"So…
+
+Buy Bitcoin?",Neutral,bBC-nXj3Ng4
+After watching your video I understood how bitcoin works.This was enlightening and after watching it I am ready to look at various applications of block chain and also jump right into coding part.Thank you Sir.,Neutral,bBC-nXj3Ng4
+i took one loan my whole life,Neutral,bBC-nXj3Ng4
+"So basically there’s still that creating currency out of thin air issue that we have with fiat and scriptural currency huh, we never learn",Negative,bBC-nXj3Ng4
+i am not gonna overcomplicate this comment. I just wanna say: thank you.,Neutral,bBC-nXj3Ng4
+Hello,Neutral,bBC-nXj3Ng4
+Hello,Neutral,bBC-nXj3Ng4
+tu video esta chido pero no se ingles,Neutral,bBC-nXj3Ng4
+"Crypto is an unregulated currency.  You and everyone else has drummed on about that for years.  To compare to a car is ridiculous.  To allow Russians to keep using this currency is a disgrace.  Only Russians will argue about that.  Bitcoin is a disgrace, destroys the planet with 100 years of power of house use to make a single coin.  We have banned all ways of Russians spending money except this.  DISGRACE and every argument is from Russians desperate to keep their currency for murderers.",Negative,bBC-nXj3Ng4
+*Last week warrant Buffet talked on BBC News on how investors and traders can make millions and he recommended a pro called Mrs Jane wondering if viewers here are familiar with her trading services?*,Neutral,bBC-nXj3Ng4
+@A_Noob   You can not and will not know where crypto currency is held or owned by.  It is very cleverly encrypted hash not  tied to any single currency and is not regulated.  Every person that owns crypto says that is why it is so fantastic - not regulated or controlled.  How dare you say it is anything else. You must be ubber dumb to sing cryptos praises for the very reason why Russians pile in to protect their money...  Tell me why they wouldn't.  Or is it you that is the dumb arse.  Insult me for telling the truth and you get it back my friend.,Neutral,bBC-nXj3Ng4
+This is such a good video,Positive,bBC-nXj3Ng4
+"This video thought me a lot , i'm impressed",Positive,bBC-nXj3Ng4
+A very wonderful video,Positive,bBC-nXj3Ng4
+"Such an impressive video , it will help me a long way",Positive,bBC-nXj3Ng4
+"It's a very clear stated video , although i still don't understand much",Neutral,bBC-nXj3Ng4
+Thanks,Neutral,bBC-nXj3Ng4
+"Here in the states, I sold all my mining machines and started using the online mining services that give you good profits which are the tech host farms mining service. Made 0.4btc last month.",Positive,bBC-nXj3Ng4
+i am also mining my 0.04btc  with  Tech host farms. My daily profits are $89 daily for a month contract.,Neutral,bBC-nXj3Ng4
+"Don't use a Physical Mining Machine. Use an online service. I will tell you why. Tech host farm has changed the crypto mining game. I started using the platform on my youtube name above last year, and it has been more reliable and cheaper to use. miners.",Neutral,bBC-nXj3Ng4
+You don't need a rig to start mining with tech host farms' online service. they are the best in 2022 so far .,Positive,bBC-nXj3Ng4
+"Since I started using tech host farms  Cloud Mining Services, I have sold all my mining machines. Since then, I have been able to save costs and earn a good sum of money without paying for the bulk electric bills for mining.",Positive,bBC-nXj3Ng4
+I can't remember when last I used physical machines for mining. I will stick with tech host farms' cloud mining services they are the best.,Positive,bBC-nXj3Ng4
+"This is 2022 using a cloud mining service like Genesis mining, Tech host farms, Hash tech, etc., don't waste your money buying machines and paying many bills on electricity. Use legit could mining services to mine your bitcoins.",Neutral,bBC-nXj3Ng4
+"here in China, we are using the tech host farms mining",Neutral,bBC-nXj3Ng4
+the last time checked we don't use any of these rigs anymore when Tech Host Farm was recommended for us,Neutral,bBC-nXj3Ng4
+"lmao, don't use these rigs they would burn you out. stick with Tech Host Farms",Positive,bBC-nXj3Ng4
+who else is watching this and making a lot on tech host farms,Neutral,bBC-nXj3Ng4
+"Well, me and my team and making more on tech host farms here in Canada. I don't know about you.",Positive,bBC-nXj3Ng4
+well mining bitcoins right now is helping those who lost the value of their coin through tech host farm,Positive,bBC-nXj3Ng4
+Solana SOL has no meaning when you make 30k monthly off tech host farm.,Neutral,bBC-nXj3Ng4
+Why would I be making 30k monthly on tech host farms online mining service and still want to use these machines that create noises and needs heavy maintenance? I am glad I sold all my helium and bobcat miners when I started with tech host farms.,Neutral,bBC-nXj3Ng4
+I am pissed off at these YouTubers because they never talk about tech host farms and how they have impacted newbies and people who can't afford machines mining.,Neutral,bBC-nXj3Ng4
+use tech host farms,Neutral,bBC-nXj3Ng4
+"Well, me and my team and making more on tech host farms here in Canada. I don't know about you.",Positive,bBC-nXj3Ng4
+Hit the like button if you are using Tech Host farms mining service and watching this! I really can't deal with spending much on mining rigs when I can use THF online and make them the same rewards.,Neutral,bBC-nXj3Ng4
+"hell no, I am going to use tech host farms consistently",Neutral,bBC-nXj3Ng4
+"Lol, tech host farm showed many of us how to make it through bitcoin mining; now I am 21 now richer. My team and I used a bitcoin mining Host to make over $1m. like this comment used the suggested mining service",Positive,bBC-nXj3Ng4
+made off 5k from tech host farms Btc mining company,Neutral,bBC-nXj3Ng4
+"I am glad I made my first $4000 on tech host farms, one of the best legit bitcoin mining companies I know right now.",Positive,bBC-nXj3Ng4
+Really at prices your efforts I liked your explanation I managed to understand how the cryptocurrency really works thanks for sharing,Positive,bBC-nXj3Ng4
+thank you for this video!,Neutral,bBC-nXj3Ng4
+"Ponasenkov Evgeny Nikolaevich TODAY: ""URGENT AND IMPORTANT! For Ukrainians, Russians - and for the media (+ please translate into all languages!). I, a citizen of Russia, want to appeal to Ukrainians, victims of monstrous aggression: know that not only obscurantists who want to destroy all living things live in Russia, but also worthy, brave people who resist the catastrophe under threat of death. Now it is more dangerous for such people in Russia than in Ukraine. Also, many Russians who resist insane politics are scattered around the world for one reason or another - and now they are humiliated and attacked by others, not realizing that they are friends, absolutely noble and sane people - and they are also victims of the insanity of a bunch of obscurantists and slaves deceived by them. It is important: today, not the moral, but the technical side of the problem has reached a new, unprecedented level - therefore, we must all be united in our desire to stop the collapse of the world that we all knew, to save the lives of billions of people. You must understand that today the world is divided not only into nations, but also into reason and anti-reason, decency - and scum, which has no nation. You and I, in all parts of the world, must stop the madness that is happening. I ask you all to share this message, I ask all the media to publish it so that the quantity grows into the quality of the event: the puppeteer and other puppeteers should hear. Whether you like me or not, there's no time for that now: if we don't stop the catastrophe, everyone will die, just look at your families, at your homes - nothing will happen!! There is a way out, but after a few hours - there is no way out! What I can do now, no one will be able to do soon. We have to stop the war, stop the hatred, stop the puppeteers and the puppeteer. Let the ministers try to get through to him, let the cleaners in the generals' houses cling to them with a shout - bring this text to the boss so that he will bring it to the owner!!!!!!!!!!!!!!!!!!!!»",Neutral,bBC-nXj3Ng4
+but what kind of transactions they are recording right now? what are the inputs?,Positive,bBC-nXj3Ng4
+Russians own and trade this scum currency.  Ban it now.  It is the currency of tyrants and dictators.  Is it only Russians that still own them?,Neutral,bBC-nXj3Ng4
+"My eyes love the jet black background as does my Oled, it's a wonder why people done presentations in eye hurting white for so long",Neutral,bBC-nXj3Ng4
+"There's a few questions that I have about how cryptocurrency works that are not addressed in this video, specifically, the costs of transactions and storage:
+1.) How much storage space does a ledger take up? If everybody has to have a copy of it, won't it eventually become so big that average consumers won't have hard drives big enough to store it? If so, how would it still be reliable?
+2.) How much energy does it cost to actually mine a coin, and how does that cost not offset the value of the mined coin?",Neutral,bBC-nXj3Ng4
+was looking forward to this wonderful video continues making these videos will make me happy every day and so will your subscribers 😁✌️,Positive,bBC-nXj3Ng4
+What does it mean to have a Bitcoin? It means you want to sell the damn thing as soon as you can for a much as you can. it's a Ponzi scheme.,Neutral,bBC-nXj3Ng4
+"13:01
+That is what I call a selfless Youtuber and a real Math lover. You rarely find such spirit in people nowadays. These guys are actually more than just Youtubers, they're a family. And the level of content they generate is enriching people like us tremendously. Let's just take a moment to thank these people and acknowledge their efforts. Love and Peace.
+✌🏻",Positive,bBC-nXj3Ng4
+This is the most educational video I’ve ever watched thank you so much for real🙏,Positive,bBC-nXj3Ng4
+Thanks for this great video! Sending to a friend.,Positive,bBC-nXj3Ng4
+"I believe < that the inflation is already priced in crypto market since the end of last year. These manipulative rats are always 2 steps ahead of everybody because they are market makers. I hope I’m wrong and they won’t keep dumping it on retail investors as always. Those who hold the longest will profit the most, I invest and hold profits keep up the great work! and also Andrew Crawford has been doing a great job reviewing all chart, trade and techniques on BTC which has enhance the growth of my portfolio to 17 BTC lately.",Neutral,bBC-nXj3Ng4
+"*I didn't get everything I prayed for until I became the person ready to receive (Good returns). A forex Expert Advisor Mrs Betty Harris trades and makes decisions faster than humans, allowing you to immediately take advantage of trading opportunities. With forex expert advisors, you can make better-informed trading decisions, increasing your chances of making profits. However, it is also essential to choose the right Forex Expert Mrs Betty Harris, one that guarantees safety and profitability*",Positive,bBC-nXj3Ng4
+lesson of the day: bob is kind of an asshole,Positive,bBC-nXj3Ng4
+I don't believe I've ever seen a video this in-depth on HOW crypto works.  Thank you for giving us this gift.  Keep up the great work!,Positive,bBC-nXj3Ng4
+"Been trying all this while to get back financially, till this name below came to my rescue with a great investment plan I never expected .",Neutral,bBC-nXj3Ng4
+"Been trying all this while to get back financially, till this name below came to my rescue with a great investment plan I never expected .",Neutral,bBC-nXj3Ng4
+"Been trying all this while to get back financially, till this name below came to my rescue with a great investment plan I never expected .",Neutral,bBC-nXj3Ng4
+Topic notch,Neutral,bBC-nXj3Ng4
+Mining rewards cut in half every 4 years? Mining in 2024 for 3 bit coin? In 2028 for 1.5? Not looking good for anyone but the first ones in. Typical pyramid scheme.,Neutral,bBC-nXj3Ng4
+"This is like reinventing the wheel by making it slower, less efficient, heavier, more expensive and easier to break! lol  What a dumb scam.",Neutral,bBC-nXj3Ng4
+"its okay, i didn't get it either",Positive,bBC-nXj3Ng4
+"Best video on block chain. I finally understand, at least in some extent, how this hole thing works. Thank you! 😉",Neutral,bBC-nXj3Ng4
+SPOILERS: it doesn't!,Neutral,bBC-nXj3Ng4
+"Bitcoins are a scam.
+There is no real value and all these scams are promoted by ungraduated scammers and trusted by fools..Why even invest your thousands of dollars for a piece of virtual crap that has absolutely zero value whatsoever ??..Not even recognized by governments ..The rise and fall of the price is pure Horse Sh*t and literally has no justifiable reason..Even this scammer in this video has nothing to explain and he's just trying to distract us from the main question..Back in 2010/12 ,The Sole reason of Such Virtual Currency might have been to replace physical Currency..But, as technologies improved , the banking got easier and reliable without having to actually involve physical cash..Now these scammers fools have emerged , thinking themselves as the modern wolves of wallstreet , latching themselves on the money of innocent people and specially those who lack financial literacy.. WAKE UP PEOPLE...THIS IS TAKING YOU NO WHERE..IT'S ALL JUST A SCAM..",Neutral,bBC-nXj3Ng4
+"""To call it astronomically large would be giving WAY too much credit to astronomy.""
+Wow, never heard this one before!",Neutral,bBC-nXj3Ng4
+Can someone explain how new transactions are included in a block? If the proof of work depends on the transactions in a block how do miners avoid restarting their proof of work every time a transaction with a high fee is broadcasted,Neutral,bBC-nXj3Ng4
+this is amazing... how subtly you made us understand the topic of cryptocurrency which is otherwise not possible to find anywhere else. this channel is a hidden gem,Neutral,bBC-nXj3Ng4
+"The software ""TeamSpeak"" also uses proof of work as a security level, the higher, the more unlikely you are some spammer. But it was built to run on a single CPU core from 10 years ago. And it measures how many hours/days/weeks it would take to get to a level. So I wrote a solver that runs on my GPU which gets me the weeks level in minutes.
+I didn't make the connection to Bitcoin until now.",Neutral,bBC-nXj3Ng4
+"I'm just a little confused on why someone would be rewarded for finding a block that starts with 60 zeroes but everything else was amazingly explained, thanks 3B1B.",Neutral,bBC-nXj3Ng4
+"I made huge profits on my investment since i started trading with Mrs Esther Taylor , her trading strategies are top notch coupled with the little commission she charges on her trade. I can unequivocally say that crypto trading is one of the most profitable and lucrative business for every investors with the right expert.",Positive,bBC-nXj3Ng4
+Welcome to why there is a GPU shortage.,Positive,bBC-nXj3Ng4
+Who was the original miner? Couldn't he have started a fraudulent computation chain thats longer than any other? Couldn't the very first miners or blockchain computers get together and create the longest running fraudulent chains?,Neutral,bBC-nXj3Ng4
+Third time watching this,Neutral,bBC-nXj3Ng4
+"Bitcoin and the broader cryptocurrency market could be set for a tumultuous few weeks of price movements amid “approaching storm clouds”, according to leading crypto analysts.
+
+The latest report from on-chain data provider Glassnode warned of “numerous macro headwinds” that could heavily impact the price of bitcoin next month, from the tightening of Fed policy to potential war in Ukraine.",Neutral,bBC-nXj3Ng4
+you earned a subscriber! nice work!,Positive,bBC-nXj3Ng4
+"*I just made my first $75,000 in cryptocurrency I’m so glad I will have a successful retirement*",Positive,bBC-nXj3Ng4
+What does he mean by to bring about? to bring about what? 11:58,Negative,bBC-nXj3Ng4
+"Investing in today is priceless because tomorrow isn't promised, trading bitcoin, gold, silver or any other crypto secure a better tomorrow.",Positive,bBC-nXj3Ng4
+Why bother?,Neutral,bBC-nXj3Ng4
+Thanks!,Neutral,bBC-nXj3Ng4
+What is bitcoin actually worth?,Positive,bBC-nXj3Ng4
+So I understand that the more powerful a miner or mining pool is the harder it is to find the correct ledger but why in the hell did the creator not just make it impossible for the same mining pool or miner to win the lottery 2 times in row. This would've eliminated the possibility of any corruption even being remotely possibly. If there was always a different miner or pool updating the ledger then there would always be balance to the ledger because a competing miner isn't going to assist in a fraudulent block.,Neutral,bBC-nXj3Ng4
+"Holy crap, so the block chain part and the accepted ledger is the mining. That's the ""lottery"" is by updating the ledger with verified transactions. This is by far the  best way I've ever seen it explained. Thank you so much for this video.",Neutral,bBC-nXj3Ng4
+If you really want 👆👆👆👆👆👆to meet up with good profit in Crypto trading 👆 👆👆👆👆,Positive,bBC-nXj3Ng4
+hello!,Neutral,bBC-nXj3Ng4
+"I still don't get why this works? Like, isn't bitcoin/any crypto mining just basically printing ""money"" from nothing? Like, who benefits from all the calculations that are done?",Neutral,bBC-nXj3Ng4
+I HAVE INCURRED SO MUCH LOSSES TRADING ON MY OWN...I TRADE WELL ON DEMO BUT I THINK THE REAL MARKET IS MANIPULATED... CAN ANYONE HELP ME OUT OR AT LEAST TELL ME WHAT I'M DOING WRONG ?,Neutral,bBC-nXj3Ng4
+Thank you very much!,Positive,bBC-nXj3Ng4
+This is one of the best video explaining the flow of cryptocurrency in a simpler way .Thanks for your effort !,Positive,bBC-nXj3Ng4
+"The amount of bots shilling crypto in the comments is unsettling. Please don't fall for it if you're scrolling past.
+
+It's cool to find the technology and maths involved interesting, but it should be noted that cryptocurrency in practice is a hypercapitalist nightmare and active scam. People will talk about ""turning $1,500 into $2,000,000"" and use this pitch to aggressively recruit unwary people. Here's how the scam works:
+     -they spent $1,500USD of 'real' physical money on an equal amount of crypto
+     -they (probably) gambled it up to 2 million or artificially inflated the price of their assets through speculative hype
+     -they still have not made any $$$ from this, they have accumulated imaginary digital tokens that are worth absolutely nothing because you can't use crypto for anything EXCEPT other crypto projects
+     -they can only use this newly accumulated wealth by selling $2,000,000 worth of tokens to ""bigger fools"", aka the people they are telling HEY GUYS BUY CRYPTO YOU'LL GET SUPER RICH JUST LIKE ME I SWEAR BRO PLEASE
+
+There are many other reasons why it's bad such as the environmental impact as well as a slew of socioeconomic issues, but it is functionally useless. Why do you think crypto nuts always talk about things in dollars instead of bitcoins or ethereum? Because they want you to believe that possessing ""$2,000,000 worth"" is the same as having $2,000,000. If nobody's left to buy, the bubble's going to pop.",Neutral,bBC-nXj3Ng4
+I'm new to cryptocurrency and I find it difficult using these strategies well. Where can I find a legit broker? That will manage my account and also teach me how to invest 🙏,Neutral,bBC-nXj3Ng4
+"Pretty simple actually. It works like any other Ponzi Scheme. It's value derives from the ability to find someone to pay more for it.
+
+Why would one spend one of their bitcoin when it's going to be ""worth"" $1,000,000 'soon'?
+
+Why would one accept payment in bitcoin? It's just dropped in ""value"" by $20,000 so had I sold you something in bitcoin I lost money on that sale.
+
+Why do bitcoin shills always quote it's value in dollars, yen, deutschmarks and pounds fucking sterling....or in the very same fiats it's claiming to replace? 
+
+One ""could"" make the claim it's a store of value but an everyday currency? Give me a f'ing break.",Neutral,bBC-nXj3Ng4
+"Talking about stocks, forex and cryptocurrency trading is the most profitable venture i ever invested in, i reached my goal of $130k monthly trade earnings. Wondering if viewers here are familiar with miss Alice Rogers trading strategy...?",Positive,bBC-nXj3Ng4
+"16 years and this is the first time I actually understood this shit. Jesus H fucking Christ.
+Also while this is good to combat the FED Banking cartel, it's reliant on power and internet and although it's like you said improbable can be hacked and will be hacked.",Neutral,bBC-nXj3Ng4
+Now im really curious about the cryptocurrencies that have forked irreparably into separate ledgers.  How did those happen given what you covered here?,Neutral,bBC-nXj3Ng4
+"Crypto investment is great unlike the stock market and other financial market, crypto has no centralised location since it operates 24hrs in different part of the world",Neutral,bBC-nXj3Ng4
+12:56 now I want to suscribe to 3Blue 1Crown,Neutral,bBC-nXj3Ng4
+"funny how since the video was made, bitcoins market cap is now 20x as much as it was",Neutral,bBC-nXj3Ng4
+"Great vid, but one question. How does itentity work, couldn’t bob act if he was Lukas and then say Lukas pays Bob?",Positive,bBC-nXj3Ng4
+"11:40 Leading into the explanation of POW, the video says that this was what was addressed in the original bitcoin paper. But am I correct in thinking that POW (or an alternative, like POS) is not just a bitcoin thing, and that it is actually part of the whole _blockchain_ mechanism that underlies bitcoin? In other words, is it the case that we will find POW (or, again, some alternative doing a similar job) at use in the blockchains being used in NFTs, DAOs, etc, etc, etc?",Neutral,bBC-nXj3Ng4
+This is genuinely one of the best videos I’ve ever seen.,Positive,bBC-nXj3Ng4
+"I actually feel as if I understood it a bit better, instead of simply turning my nose up on bitcoin cause ""it's bound to fail"". I still would never engage, but I have a clearer view of it now.",Neutral,bBC-nXj3Ng4
+"So there are potentially millions of computers at one time cracking the same hashes, but only the one that gets the right answer first gets the prize? And everyone else's work is utterly wasted? No wonder Bitcoin is causing an energy crisis. I can't help but think though that creating a massive network of millions of computers all highly tuned to get the most hashes per second possible could be some sort of black op by the three-letter agencies to brute force people's encrypted files",Neutral,bBC-nXj3Ng4
+"4:37 My girlfriend signs my signature better than me :')
+if i sign 2 times in a row they just dont look the same at all xd",Neutral,bBC-nXj3Ng4
+Wait what would happen if transactions happens faster than 2400 per 10 minutes? Would the transactions tipping the miners less just not be recorded and the transaction fee rises?,Neutral,bBC-nXj3Ng4
+check 3:41,Neutral,bBC-nXj3Ng4
+the success behind my profit earning in bitcoin Investment is not solely on my skills but by the help of Investing with an expert.,Neutral,bBC-nXj3Ng4
+"Mrs. Marla Roseline ☝️☝️☝️☝️ is the right person to start trading cryptocurrency with.. she knows her way around the crypto world.. she has been helping me increase my investment every day for over months... She is a genius, have made close to 1btc through her",Positive,bBC-nXj3Ng4
+"Utterly fascinating and very well explained. Thank you. 
+
+Unfortunately, it has confirmed that I won't be using bitcoin or cryptocurrencies unless dragged kicking and screaming! 
+
+;^)",Neutral,bBC-nXj3Ng4
+"Thank you for being there THESPACEHACKERS🎡COM when I wanted you to..... I was lost in this new world that I was hassled to start with ....you not only guided me along the way but you also showed me the proper way....whatever little I have been able to achieve in life is because of you today ..... I want to thank you for being there and showing me the proper way of doing thing for me you are my best guide as you truly showed me the way to life....once again , I would like to tell you a heartfelt thanks for being there.",Neutral,bBC-nXj3Ng4
+"Thank you for being there THESPACEHACKERS🎡COM when I wanted you to..... I was lost in this new world that I was hassled to start with ....you not only guided me along the way but you also showed me the proper way....whatever little I have been able to achieve in life is because of you today ..... I want to thank you for being there and showing me the proper way of doing thing for me you are my best guide as you truly showed me the way to life....once again , I would like to tell you a heartfelt thanks for being there.",Neutral,bBC-nXj3Ng4
