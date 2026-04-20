@@ -120,8 +120,8 @@ The methods used in this project can also be extended to detect trends, evaluate
 
 ## Deliverables
 
-- Final Project Report (Word/PDF)  (Final report will be uploaded soon)
-- IPython Notebook (.ipynb)  
+- Final Project Report (Word/PDF)  click [here](Big_Data-Final-project.pdf) to see the report.
+- IPython Notebook (.ipynb)
 
 ---
 
